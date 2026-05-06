@@ -75,7 +75,4 @@ const getIntersection = (arr1: number[], arr2: number[]): number[] => {
    return result;
 };
 
-let data: any;
 
-data = 'Hello';
-data.toFixed();
