@@ -1,4 +1,4 @@
-# 🧠 Generics: Reusable এবং Strictly Typed Code লেখার শক্তিশালী উপায় 
+# Generics: Reusable এবং Strictly Typed Code লেখার শক্তিশালী উপায় 
 
 ## Introduction
 TypeScript-এর Generics এমন একটি ফিচার, যার মাধ্যমে আমরা এমন কোড লিখতে পারি যেটা একবার লিখে বারবার ব্যবহার করা যায় (reusable) এবং একই সাথে strict type safety বজায় থাকে। এছাড়াও Generics ব্যবহার করে আমরা runtime-এ না, বরং compile time-এই type অনুযায়ী data handle করতে পারি। এটি ডেভেলপারদের জন্য টাইপ সেফটি এবং ফ্লেক্সিবিলিটির মধ্যে একটি চমৎকার ভারসাম্য তৈরি করে।
