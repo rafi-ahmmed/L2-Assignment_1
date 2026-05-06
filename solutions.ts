@@ -1,0 +1,1 @@
+console.log("This is a ts assignment og lavel 2 this is my first ass in l2")
