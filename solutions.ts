@@ -51,8 +51,7 @@ class Person {
    name: string;
    age: number;
    constructor(name: string, age: number) {
-      this.name = name,
-      this.age = age;
+      ((this.name = name), (this.age = age));
    }
 }
 
@@ -75,3 +74,7 @@ const getIntersection = (arr1: number[], arr2: number[]): number[] => {
    return result;
 };
 
+let data: any;
+
+data = 'Hello';
+data.toFixed();
